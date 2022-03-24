@@ -4,7 +4,7 @@
 - 👀 I’m interested in full stack development of real world problem solving applications
 - 🌱 I’m currently learning Advanced Typescript, Node Backend and Go 
 - 💞️ I’m looking to work with Ambitious Developers with quality over speed preference
-- 📫 How to reach me just mail to najafmirrani001@gmail.com
+- 📫 How to reach me just mail to najafmirrani001@gmail.com. My linkedIn https://www.linkedin.com/in/najaf-ali-1aa271147/
 
 <!---
 Najaf-Mirrani/Najaf-Mirrani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
